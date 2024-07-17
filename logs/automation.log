@@ -1,0 +1,61 @@
+19:04:15.670 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:04:15.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:04:21.112 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
+19:06:06.395 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:06:06.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:06:11.304 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
+19:08:35.276 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:08:35.513 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:08:39.786 [main] INFO  testCases.TC_001_LoginTest - **** starting TC_001_LoginTest  *****
+19:08:39.786 [main] DEBUG testCases.TC_001_LoginTest - application logs started......
+19:08:44.812 [main] INFO  testCases.TC_001_LoginTest - Enter username
+19:08:44.877 [main] INFO  testCases.TC_001_LoginTest - Enter password
+19:08:45.118 [main] INFO  testCases.TC_001_LoginTest - clicked on login button
+19:08:45.143 [main] INFO  testCases.TC_001_LoginTest - login success confirmation message
+19:08:45.161 [main] INFO  testCases.TC_001_LoginTest - **** finished TC_001_LoginTest  *****
+19:08:49.739 [main] INFO  testCases.TC_002_HomeTest - **** starting TC_002_HomeTest  *****
+19:08:55.456 [main] INFO  testCases.TC_002_HomeTest - **** finished TC_002_HomeTest  *****
+19:08:59.586 [main] INFO  testCases.TC_003_BasicConfigurationTest - **** starting TC_003_BasicConfigurationTest  *****
+19:09:05.881 [main] INFO  testCases.TC_003_BasicConfigurationTest - *** Finished TC_003_BasicConfigurationTest ***
+19:09:10.180 [main] INFO  testCases.TC_004_ListedANPRTest - Staring TC_004_ListedANPRTest 
+19:09:16.050 [main] INFO  testCases.TC_004_ListedANPRTest - finshed TC_004_ListedANPRTest
+19:22:30.479 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:22:30.709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:22:34.930 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
+19:25:34.340 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:25:34.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:25:38.886 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
+19:25:44.856 [main] INFO  testCases.TC_005_LiveviewTest - **** finished TC_005_LiveviewTest  *****
+19:34:35.747 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:34:35.951 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:34:40.075 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
+19:34:46.302 [main] INFO  testCases.TC_005_LiveviewTest - **** finished TC_005_LiveviewTest  *****
+19:41:08.422 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:41:08.641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:41:12.970 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
+19:41:19.121 [main] INFO  testCases.TC_005_LiveviewTest - **** finished TC_005_LiveviewTest  *****
+19:42:30.865 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+19:42:31.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+19:42:35.196 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
+19:42:41.457 [main] INFO  testCases.TC_005_LiveviewTest - **** finished TC_005_LiveviewTest  *****
+10:31:51.864 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml"
+10:31:52.074 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Naidu\eclipse-workspace\ANPR\testRunner\testng.xml
+
+10:31:58.050 [main] INFO  testCases.TC_005_LiveviewTest - **** starting TC_005_LiveviewTest  *****
